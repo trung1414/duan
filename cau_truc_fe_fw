@@ -1,0 +1,47 @@
+Create 1 khung xuowng cho 
+
++ layout :  general width column, responsive layout , grid
++ color : -text-theme, - theme-lx ( light theme)
+  file nale : -color-flat,-color-safety.css
++ helper class ; round,  , 
+    padding : padding-16, padding-24, padding-32 , 
+    margin: margin--top, margin-left
+    border : border-top, border-left, border-right, 
+    size ; small, -large : fontsize : 18pt, smaill : 12pt
+  container : : 
+    + accordion : bar , section
+    + navigator
+    + tab
+    + card
+    + slidebar
+    + panel
+  
+  + visual element
+    + note 
+    + alert
+  + text : 
+     + print style :  
+    + web font :
+    + alignment : right , center
+
++ menu:  dropdown menu, menu-item, vertical navigation bar
++ table : table and list : hovering, add icon, sort 
++ button + label : badges,tag
++form 
+  + checkbox , radio, lable, input, select,
+
++ animation : driection : top right ( slide from right side)
+  + zoom
+  + opacity
+  + fading ; fading out  fadding in 1,5 s
+  + spinner : eample loading gif
++ modal : 
+     + show, animal , close
++ image : 
+    + border , padding
+
+
+
+-------------------------------------------------
+respondse for MObile , base version, desktop, tablet
+  
