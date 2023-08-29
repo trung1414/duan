@@ -1,5 +1,15 @@
 Create 1 khung xương cho base css style , về cơ bản sẽ tạo ra các từ khóa, sau đó update dần các component phức tạp hơn, nhằm tạo ra một khung css dễ maintain, thống nhất với ngôn ngữ của design. tránh việc lặp lại và chồng chất các css line dư thừa trong dự án. nhất là đối với dụ án cần 
 custom cho nhiều khách hàng, và cần 1 clear . sau lày có thể đóng gói cùng với từng JS component như Vue or reactjs
+  Khi thiết kế css  thì hướng theo module ví dụ : trong một căn phòng thì bàn ghế là một module, tường là một module, .. và việc style cho module là gọi là automic : cấp phân tử , càng nhỏ càng tốt 
+  Convetion : chuẩn hóa tên class : .<moudle>[-<component>][-<state>]
+  example ; .searchResult , .searchResult-header , .searchResult-iiLoading
+Component : là thành phần tạo nên module
+  example :  module checkout : gồm basket list , button , ..
+
+State : là style thay đổi khi thay đổi trạng thái
+  show, hide , active, inactive; disable, enable, loading, loaded; ...
+Modifier : là tính ghi đè style , ví dụ khi các trang bán hàng , các style header , layout đều giống nhau chỉ khác về backgroud image.
+  example : .categoryHeader, .categoryHeader .categoryHeader--mobile, .categoryHeader .categoryHeader--bike
 
 ebook: 41 free html and css book : juejin.cn
 maintainablecss.com: 
