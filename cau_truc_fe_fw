@@ -10,6 +10,21 @@ State : là style thay đổi khi thay đổi trạng thái
   show, hide , active, inactive; disable, enable, loading, loaded; ...
 Modifier : là tính ghi đè style , ví dụ khi các trang bán hàng , các style header , layout đều giống nhau chỉ khác về backgroud image.
   example : .categoryHeader, .categoryHeader .categoryHeader--mobile, .categoryHeader .categoryHeader--bike
+Các skill for FE dev : 
+  - các cơ bản về việc lập trình MVC, css, js 
+  - package management
+  - Module
+  - code testing
+  - SPA (single page app)
+  - application architech
+  - microdata/ microformat 
+  - js ,css animation
+  - build CMS , ecommerce site 
+  - wireframe
+  - css layout, grid
+  - mobile web
+  - load, performance testing
+  - SEO
 
 ebook: 41 free html and css book : juejin.cn
 maintainablecss.com: 
