@@ -1,6 +1,8 @@
 Create 1 khung xương cho base css style , về cơ bản sẽ tạo ra các từ khóa, sau đó update dần các component phức tạp hơn, nhằm tạo ra một khung css dễ maintain, thống nhất với ngôn ngữ của design. tránh việc lặp lại và chồng chất các css line dư thừa trong dự án. nhất là đối với dụ án cần 
 custom cho nhiều khách hàng, và cần 1 clear . sau lày có thể đóng gói cùng với từng JS component như Vue or reactjs
 
+ebook: 41 free html and css book : juejin.cn
+
 + layout :  general width column, responsive layout , grid
 + color : -text-theme, - theme-lx ( light theme)
   file nale : -color-flat,-color-safety.css
